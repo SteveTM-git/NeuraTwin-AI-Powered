@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Latest-009688)
 ![React](https://img.shields.io/badge/React-18-61DAFB)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 **A full-stack IoT digital twin application with real-time anomaly detection, root cause analysis, and predictive maintenance scheduling using advanced AI/ML techniques.**
 
@@ -28,6 +28,13 @@ NeuraTwin is an enterprise-grade predictive maintenance system that leverages ar
 - 📊 **85-95% Accuracy**: Industry-leading anomaly detection rates
 - 🔧 **Smart Scheduling**: Automated maintenance planning with priority levels
 - 🔊 **Audio Alerts**: Customizable sound notifications for critical events
+
+---
+
+## 📸Screenshots
+<img width="1440" height="796" alt="Screenshot 2025-10-05 at 3 27 52 PM" src="https://github.com/user-attachments/assets/64b5b673-ce8f-4fd1-8da2-9effc538df49" />
+<img width="1440" height="796" alt="Screenshot 2025-10-05 at 3 28 08 PM" src="https://github.com/user-attachments/assets/69f753df-dade-4cd6-87d0-7abb1c68965d" />
+<img width="1440" height="556" alt="Screenshot 2025-10-05 at 3 28 16 PM" src="https://github.com/user-attachments/assets/4aca1607-dc9d-4ef9-8258-6a3f8a5a0ead" />
 
 ---
 
